@@ -5,3 +5,4 @@
  - [GitHub](https://github.com/amiclaus)
  - [Google Scholar](https://scholar.google.com/citations?user=xSGxdDAAAAAJ&hl=en)
  - [ResearchGate](https://www.researchgate.net/profile/Antoniu-Miclaus)
+ - [Linkedin](https://www.linkedin.com/in/antoniu-miclaus/)
